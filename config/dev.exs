@@ -3,8 +3,8 @@ use Mix.Config
 # Configure your database
 config :rumbl_mssql, RumblMssql.Repo,
   username: "sa",
-  password: "some!Password",
-  database: "rumbl_mssql_dev",
+  password: "anhnangcuaanh",
+  database: "rumbl_mssql",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,
   pool_size: 10
